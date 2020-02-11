@@ -8,9 +8,10 @@ import org.springframework.context.annotation.Profile;
 @EnableConfigServer
 @SpringBootApplication
 //@Profile("development")
-public class SpringConfigServerApplication {
+public class SpringConfigServerApplication { 
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringConfigServerApplication.class, args);
+		
 	}
 }
