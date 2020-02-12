@@ -14,8 +14,6 @@ public class SpringConfigServerApplication {
 		SpringApplication.run(SpringConfigServerApplication.class, args);
 		
 		System.out.println("lets make some changes");
-
-        System.out.println("hi = " + hi);
 ;
 	}
 
