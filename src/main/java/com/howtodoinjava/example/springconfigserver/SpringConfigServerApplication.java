@@ -17,6 +17,9 @@ public class SpringConfigServerApplication {
 
 		System.out.println("first change");
 
+
+		System.out.println("my changes to be committed");
+
 	}
 
 }
