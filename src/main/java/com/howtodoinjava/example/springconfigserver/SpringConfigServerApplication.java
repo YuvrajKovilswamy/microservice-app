@@ -17,8 +17,6 @@ public class SpringConfigServerApplication {
 
 		System.out.println("first commit ");
 
-		System.out.println("second commit ");
-
 	}
 
 }
