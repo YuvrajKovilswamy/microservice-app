@@ -15,6 +15,7 @@ public class SpringConfigServerApplication {
 		
 		System.out.println("lets make some changes");
 
+		System.out.println("first change");
 
 	}
 
