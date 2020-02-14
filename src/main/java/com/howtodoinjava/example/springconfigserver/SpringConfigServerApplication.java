@@ -17,6 +17,9 @@ public class SpringConfigServerApplication {
 
 		System.out.println("first commit ");
 		System.out.println("i have changed the code");
+		System.out.println("someone changed the code here");
+
+
 
 	}
 
